@@ -15,7 +15,8 @@
  
 <h2>@ Western Goveners University<h2>
 
-Bachelor of Science, Cybersecurity and Information Assurance
+Bachelor of Science, 
+Cybersecurity and Information Assurance
 
 <h2>🤳Connect with me:</h2>
 
