@@ -13,10 +13,9 @@
 - Network And Security Foundations 
 - Data Management 
  
+<h2>@ Western Goveners University<h2>
+
 Bachelor of Science, Cybersecurity and Information Assurance
-@ WGU
-- 
--
 
 <h2>🤳Connect with me:</h2>
 
