@@ -6,7 +6,7 @@
   
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Markuscarter/Configure-azure-directory-/tree/main)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/) ( Coming Soon!) 
 
 - 🌱 I’m currently learning ...
 - Emerging Technologies in Cybersecurity 
